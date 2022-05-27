@@ -22,7 +22,7 @@ So in this project, I have made an attendance system which takes attendance by u
 ( At first we have to run the main.py with all necessary files)
 
 1. Now for the new user on our desktop app he or she have to register there by providing their id and name.
-2. After that they have to take the images section and there the camera will be popped down and have to wait for couple of seconds. 
+2. After that they have to go to the take images section and there the camera will be popped down and have to wait for couple of seconds. 
 3. Then the camera will be closed and the user have to save the profile, by putting the default password that is sdnew ,now the user is registered
 4. Now while giving the attendance once have to make sure that he or she have to be registered first.
 5. So after going to the registered section one should have to stay front of the camera, and press the attendance system tab.
