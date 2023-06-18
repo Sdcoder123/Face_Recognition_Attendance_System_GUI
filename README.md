@@ -52,6 +52,8 @@ So in this project, I have made an attendance system which takes attendance by u
 # Default Password:
 ![d](https://user-images.githubusercontent.com/98347730/170689644-509a837a-1395-4718-9fe1-56df495ee621.png)
 
+# Demo Video:
+https://drive.google.com/file/d/1-31FaaAt-T9cbKrujSuAyh5lXkryrGJC/view?usp=drive_link
 
 
 
